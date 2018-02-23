@@ -1,0 +1,81 @@
+#hero {
+    background-image: url(background2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+
+#iphone {margin-top: 40px;}
+
+#app-name{color: white;
+    font-size: 16px;
+letter-spacing: 2px;
+margin-bottom: 30px;}
+
+.btn{width: 200px}
+
+#proposition-value{
+    color: white;
+    letter-spacing: 2px;
+    margin-bottom: 30px
+}
+#logo{margin-bottom: 20px;}
+
+#main {
+    background-image: url(background2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0%;
+}
+
+#section1{
+    color:white;
+    overflow: auto;
+    background-color: rgba(6, 6, 36, 0.603);
+}
+
+#question{
+    margin-top: 62px;
+    margin-bottom: 58px;
+    letter-spacing: 2PX;
+}
+
+#answer{
+    margin-bottom: 62px;
+    font-size: 16PX;
+    letter-spacing: 2PX;
+}
+
+#title{color: white;
+font-size: 20PX;
+letter-spacing: 2px;
+margin-top: 77px;
+margin-bottom: 70px;
+}
+
+#text{color: white;
+margin-bottom: 77px;
+font-size: 16px;
+}
+
+#section2 {margin-top: 100px;
+}
+
+
+#footer {color: white;
+padding: 15px;
+letter-spacing: 2px;
+font-size: 12px}
+
+#Magali {color: white;
+font-size: 12px;
+letter-spacing: 2px;
+margin-left: 40px;
+padding: 15px}
+
+#social-media{color: white;
+padding: 10px;}
+
+#icons {margin-right: 40px}
+
+#section3 {background-color: rgba(6, 6, 36, 0.603);}
